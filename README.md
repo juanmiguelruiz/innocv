@@ -3,7 +3,7 @@
 ## Getting started 🏄🏼‍♂️
 
 1. Node v20.18.1 and npm v10.8.2
-2. Intall dependencies `$ npm i `
+2. Install dependencies `$ npm i `
 3. Finally, run `$ npm start` to lauch the SPA.
 
 ## Exercises
