@@ -6,7 +6,7 @@
 2. Install dependencies `$ npm i `
 3. Finally, run `$ npm start` to lauch the SPA.
 
-Web deployed: https://innocv-ajgyabuvh-juan-miguel-ruiz-pazos-projects.vercel.app/
+Web deployed: https://innocv.vercel.app
 
 ## Exercises
 
